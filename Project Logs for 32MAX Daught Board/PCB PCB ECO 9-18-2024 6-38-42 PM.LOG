@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=VCC Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=VCC Pin=J6-2
+Added Member To Class: ClassName=Sheet1 Member=Component J5 BM02B-GVHS-TB(LF)(SN)

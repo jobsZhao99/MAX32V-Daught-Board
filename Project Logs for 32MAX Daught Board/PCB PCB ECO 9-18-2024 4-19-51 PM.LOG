@@ -1,0 +1,41 @@
+Added Component: Designator=*(LRBP50S)
+Added Component: Designator=*(LRBP50S)
+Added Component: Designator=J1(A01M-A-7P-M5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.us/item/3256806678504944.html?spm=a2g0o.detail.pcDetailBottomMoreOtherSeller.2.357aedyPedyPyt&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=a768a161-9901-4811-b101-05a15b7a8653&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:a768a161-9901-4811-b101-05a15b7a8653,tpp_buckets:668%232846%238110%231995&isseo=y&pdp_npi=4%40dis%21USD%211.52%210.99%21%21%211.52%210.99%21%402103244617225425575533636e8077%2112000038560097796%21rec%21US%21%21ABX&utparam-url=scene%3ApcDetailBottomMoreOtherSeller%7Cquery_from%3A"; VariantName = "[No Variations]"
+Added Component: Designator=J2(A01M-A-7P-M5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.us/item/3256806678504944.html?spm=a2g0o.detail.pcDetailBottomMoreOtherSeller.2.357aedyPedyPyt&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=a768a161-9901-4811-b101-05a15b7a8653&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:a768a161-9901-4811-b101-05a15b7a8653,tpp_buckets:668%232846%238110%231995&isseo=y&pdp_npi=4%40dis%21USD%211.52%210.99%21%21%211.52%210.99%21%402103244617225425575533636e8077%2112000038560097796%21rec%21US%21%21ABX&utparam-url=scene%3ApcDetailBottomMoreOtherSeller%7Cquery_from%3A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=GND Pin=J2-7
+Added Pin To Net: NetName=GND Pin=J2-8
+Added Pin To Net: NetName=GND Pin=J2-9
+Added Pin To Net: NetName=GND Pin=J2-10
+Added Pin To Net: NetName=GND Pin=J2-11
+Added Pin To Net: NetName=GND Pin=J2-12
+Added Net: Name=GND
+Added Pin To Net: NetName=VCC Pin=*-1
+Added Pin To Net: NetName=VCC Pin=*-2
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=J1-2
+Added Pin To Net: NetName=VCC Pin=J1-3
+Added Pin To Net: NetName=VCC Pin=J1-4
+Added Pin To Net: NetName=VCC Pin=J1-5
+Added Pin To Net: NetName=VCC Pin=J1-6
+Added Pin To Net: NetName=VCC Pin=J1-7
+Added Pin To Net: NetName=VCC Pin=J1-8
+Added Pin To Net: NetName=VCC Pin=J1-9
+Added Pin To Net: NetName=VCC Pin=J1-10
+Added Pin To Net: NetName=VCC Pin=J1-11
+Added Pin To Net: NetName=VCC Pin=J1-12
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
